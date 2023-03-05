@@ -1,7 +1,7 @@
 # Aqua
 Aqua is a tool coded in haxe that is mainly used for system functions and flixel states coding.
 
-#Using Aqua
+# Using Aqua
 
 1. Download Aqua's source code.
 2. Then go to your haxe project source folder.
@@ -10,7 +10,7 @@ Aqua is a tool coded in haxe that is mainly used for system functions and flixel
 
 Everything is done!
 
-#Reporting bugs
+# Reporting bugs
 
 1. Join our discord server: https://discord.gg/mw3VvyWQ
 2. Go to "Aqua" section .
